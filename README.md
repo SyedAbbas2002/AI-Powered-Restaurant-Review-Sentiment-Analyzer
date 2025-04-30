@@ -34,7 +34,7 @@ DineSentiment/
 ├── data/
 │   └── restaurant_reviews.csv
 ├── models/
-│   └── sentiment_model.pkl
+│   └── train_sentiment_model.py
 ├── app/
 │   ├── app.py
 │   ├── utils.py
@@ -44,6 +44,7 @@ DineSentiment/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 ```
 
 ---
